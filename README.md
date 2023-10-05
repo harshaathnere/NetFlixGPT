@@ -2,8 +2,12 @@ NetFlix Gpt
 1. Create React App 
 2.Configure Taliwand Css
 Login Form 
+Routing
 Z index 
 Formik
+useref
+Form Validation 
+GoogleFirebase
 
 
 
