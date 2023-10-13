@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react'
 import Header from './Header';
-import { checkData } from '../utils/validate';
 
+import { checkData } from '../utils/validate';
 
 const Login = () => {
    const [isSignInForm, setSignInForm] = useState(true);
